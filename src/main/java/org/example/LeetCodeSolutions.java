@@ -4,10 +4,7 @@ import java.util.Arrays;
 import org.example.addtwonumbers.AddTwoNumbers;
 import org.example.addtwonumbers.ListNode;
 
-/**
- * Hello world!
- */
-public class App {
+public class LeetCodeSolutions {
 
   public static void main(String[] args) {
 //        twoSum();
